@@ -1,0 +1,33 @@
+﻿body {
+	display: flex;
+	font-family: Arial;
+}
+
+.contenedor {
+	border: 1px solid #ccc;
+	margin: 0 auto;	
+	width: 60%;
+	background: #fff;
+	padding: 10px;
+}
+
+.principal {
+	background: #0CB1BF;
+	padding: 10px;
+}
+
+.cabecera {
+	display: flex;
+}
+
+.nombre {
+	margin-left: 40px;
+	width: 100%;
+}
+
+.titulo {
+	border: 1px solid #0CB1BF;
+	color: #0CB1BF;
+	
+
+}
